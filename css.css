@@ -1,165 +1,33 @@
-.body {
-	font-family: "Droid Sans", Arial, Helvetica, sans-serif;
-	font-size: large;
-	font-weight: normal;
-	color: #990000;
-	text-decoration: none;
-}
-
-@media only screen and (min-width:62.5em) { 
 body {
-background: url('graphics/background.gif') white left no-repeat fixed
+  font-family: 'Droid Sans', sans-serif;
+  line-height: 1.7;
 }
+
+a {
+  text-decoration: none;
 }
 
-.body a:link {
-
-	font-family: "Droid Sans", Arial, Helvetica, sans-serif;
-	 ;
-	font-weight: bold;
-	color: #666666;
-	text-decoration: none;
+a:hover {
+  text-decoration: underline;
 }
-.body a:visited {
 
-
-	font-family: "Droid Sans", Arial, Helvetica, sans-serif;
-	 ;
-	font-weight: bold;
-	color: #666666;
-	text-decoration: none;
-}
-.body a:hover {
-
-
-
-	font-family: "Droid Sans", Arial, Helvetica, sans-serif;
-	 ;
-	font-weight: bold;
-	color: #000000;
-	text-decoration: underline;
-}
-.body a:active {
-
-
-
-
-	font-family: "Droid Sans", Arial, Helvetica, sans-serif;
-	 ;
-	font-weight: bold;
-	color: #666666;
-	text-decoration: none;
-}
-.header {
-	font-family: "Droid Sans", Arial, Helvetica, sans-serif;
-	 
-	font-weight: bold;
-	color: #666666;
-	text-decoration: none;
-}
-.blockquote {
-	font-family: "Droid Sans", Arial, Helvetica, sans-serif;
-	 
-	font-weight: bolder;
-	color: #CC0000;
-	text-decoration: none;
-	text-align: left;
-	vertical-align: middle;
-	border: 3px dotted #999999;
-	height: auto;
-	width: auto;
-	padding: 10px;
-
-
-}
-.header a:link {
-
-	font-family: "Droid Sans", Arial, Helvetica, sans-serif;
-	 ;
-	font-weight: bold;
-	color: #CC0000;
-	text-decoration: none;
-}
-.header a:visited {
-
-
-	font-family: "Droid Sans", Arial, Helvetica, sans-serif;
-	 ;
-	font-weight: bold;
-	color: #CC0000;
-	text-decoration: none;
-}
-.header a:hover {
-	font-family: "Droid Sans", Arial, Helvetica, sans-serif;
-	 ;
-	font-weight: bold;
-	color: #000000;
-	text-decoration: underline;
-
-}
-.header a:active {
-
-
-
-
-	font-family: "Droid Sans", Arial, Helvetica, sans-serif;
-	 ;
-	font-weight: bold;
-	color: #CC0000;
-	text-decoration: none;
-}
-.blockquote a:link {
-
-	font-family: "Droid Sans", Arial, Helvetica, sans-serif;
-	 ;
-	font-weight: bolder;
-	color: #666666;
-	text-decoration: none;
-}
-.blockquote a:visited {
-
-
-	font-family: "Droid Sans", Arial, Helvetica, sans-serif;
-	 ;
-	font-weight: bolder;
-	color: #666666;
-	text-decoration: none;
-}
-.blockquote a:hover {
-
-
-
-	font-family: "Droid Sans", Arial, Helvetica, sans-serif;
-	 ;
-	font-weight: bolder;
-	color: #000000;
-	text-decoration: underline;
-}
-.blockquote a:active {
-
-
-
-
-	font-family: "Droid Sans", Arial, Helvetica, sans-serif;
-	 ;
-	font-weight: bolder;
-	color: #666666;
-	text-decoration: none;
-}
 .caption {
-	font-family: "Droid Sans", Arial, Helvetica, sans-serif;
-	font-size: small;
-	font-style: italic;
-	color: #000000;
-	text-decoration: none;
-	text-align: center;
-
+  font-size: 0.9rem;
+  color: #666;
 }
 
-p #logobar a {
-border: 0;
+blockquote {
+  border-left: 4px solid #ccc;
+  padding-left: 1rem;
+  color: #555;
 }
 
-#mainContainer {
-padding: 4%;
+.social {
+  font-size: 2rem;
+  margin: 0 0.5rem;
+  color: #333;
+}
+
+.social:hover {
+  color: #cc0000;
 }
