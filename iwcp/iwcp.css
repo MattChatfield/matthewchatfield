@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+color: #183171;
+font-family: Georgia, "Times New Roman", Times, Serif;
+text-decoration: none;
+font-weight: normal;
+}
+
+p {
+line-height:135%;
+}
+
+ul {
+font-size:24px;
+line-height:135%;}
+

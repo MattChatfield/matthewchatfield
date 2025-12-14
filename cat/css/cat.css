@@ -1,0 +1,152 @@
+.title {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bolder;
+	text-transform: lowercase;
+	color: #FF6600;
+	text-decoration: none;
+}
+.body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 20px;
+	color: #666666;
+	text-decoration: none;
+}
+.body a:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 20px;
+	color: #FF6600;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+.body a:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 20px;
+	color: #CCCCCC;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+.body a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 20px;
+	color: #666666;
+	text-decoration: none;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #666666;
+	font-weight: bold;
+
+
+}
+.body a:active {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 20px;
+	color: #666666;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+
+.leftpicturebox {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: italic;
+	color: #663300;
+	text-decoration: none;
+	padding: 15px;
+	float: left;
+	text-align: center;
+
+}
+.rightpicturebox {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: italic;
+	color: #663300;
+	text-decoration: none;
+	padding: 15px;
+	float: right;
+	text-align: center;
+
+}
+.dropcap{
+	float:left;
+	line-height:60px;
+	margin-top:10px;
+	margin-bottom:10px;
+	color:white;
+	padding-top:0.2em;
+	font-size:100pt;
+	height:auto;
+	font-weight:bold;
+	font-family:"times","times new roman";
+	padding-bottom: 0.2em;
+	background-image: url(../graphics/stripes1.png);
+	margin-right: 20px;
+}
+.box1 {
+	background-color: palegoldenrod;
+	margin: 0px 0px 20px 20px;
+	padding: 0px 15px 15px;
+	float: right;
+	clear: right;
+	width: 180px;
+}
+.box1header {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #966400  ;
+	text-decoration: none;
+	text-align: left;
+}
+.box1header a:link {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #966400  ;
+	text-decoration: none;
+	text-align: left;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #966400;
+}
+.box1header a:visited {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #966400  ;
+	text-decoration: none;
+	text-align: left;
+}
+.box1header a:hover {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #657878;
+	text-decoration: none;
+	text-align: left;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #657878;
+}
+.box1header a:active {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #966400  ;
+	text-decoration: none;
+	text-align: left;
+}
+
+.centrecontent {
+	margin-top: 230px;
+	margin-left: 250px;
+}

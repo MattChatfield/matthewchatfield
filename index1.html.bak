@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+	<title>Matthew Chatfield's Home Page</title>
+<link href='http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold' rel='stylesheet' type='text/css'>
+<meta name="keywords" content="matthew, chatfield, isle of wight, naturenet, matt and cat, durham, hampshire, matt, chat, cv">
+<link href="css.css" rel="stylesheet" type="text/css">
+
+</head>
+<body>
+	<div id="mainContainer" class="container-fluid">
+		<div class="row">
+			<div class="col-md-12 text-center"> <img class="img-responsive" src="graphics/name.gif" alt="Matthew Chatfield"> </div>
+		</div>
+		<div class="row">
+			<div class="col-md-6"><h3>Matthew Chatfield is the creator and editor of <a href="https://naturenet.net/index.php">Naturenet</a>, 
+            the internet's online resource for practical nature conservation and countryside management. <a href="https://www.naturenet.net/chat/cv.html">See Matthew's full CV</a>.</h3></div>
+			<div class="col-md-6"><p class="blockquote">Not only is Matthew the editor of <a href="https://www.naturenet.net/index.php">Naturenet</a>, 
+        he is employed as a Communications Officer by the Isle of Wight Council.</p></div>
+		</div>
+		<div class="row">
+			<div class="col-md-12"></div>
+		</div>
+		<div class="row">
+			<div class="col-md-6"></div>
+			<div class="col-md-6"><img alt="Bootstrap Image Preview" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg"></div>
+		</div>
+		<div class="row">
+			<div class="col-md-12"></div>
+		</div>
+		<div class="row">
+			<div class="col-md-12"></div>
+		</div>
+	</div>
+</body>
+</html>
