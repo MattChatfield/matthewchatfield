@@ -1,5 +1,4 @@
 body {
-  font-family: 'Droid Sans', sans-serif;
   line-height: 1.7;
 }
 
@@ -30,4 +29,36 @@ blockquote {
 
 .social:hover {
   color: #cc0000;
+}
+
+/* Font Pairing Overrides: Lora + Merriweather */
+
+/* Body text - Merriweather */
+body, input, select, textarea {
+    font-family: 'Merriweather', serif;
+    font-weight: 300; /* Light weight makes Merriweather look more elegant for body text */
+    line-height: 1.8;
+    color: #2c2c2c;
+    -webkit-font-smoothing: antialiased; /* Improves serif rendering on some browsers */
+}
+
+/* Headings - Lora */
+h1, h2, h3, h4, h5, h6, .logo {
+    font-family: 'Lora', serif;
+    font-weight: 700;
+    text-transform: none; /* Crucial for Lora to show its calligraphic character */
+    letter-spacing: 0.0em;
+    color: #111;
+}
+
+/* Arcana specific: Handling the Sidebar and Nav */
+#nav > ul > li > a {
+    font-family: 'Lora', serif;
+    font-weight: 400;
+    text-transform: none;
+    font-size: 0.95em;
+}
+
+strong, b {
+    font-weight: 700;
 }
